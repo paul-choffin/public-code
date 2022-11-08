@@ -1,0 +1,22 @@
+Fonctionnalités :						Phrase d'exemple :
+ - Fermer/arrêter l'assistant					"arrête-toi"
+ - ouvrir une application					"ouvre google stp"
+ - chercher sur google						"cherche "
+ - chercher sur youtube						"cherche ... sur google"
+ - chercher sur wikipédia					"recherche ... sur wikipedia"
+ - trouver la réponse d'un calcul mathématique			"quelle est la somme de 456 et 299 792 458"
+	(API anglaise --> traduction du resultat approximative)
+ - trouver la réponse à une question générale			"qui est le président de la République française ?"
+	(pas totalement fonctionnel --> quelques problèmes)
+ - âge de l'assistant 						"Tu as quel âge ?"
+ - nom de l'assistant						"quel est ton nom ?"
+ - présentation							"présente-toi"
+ - donne l'heure						"quelle heure est-il ?"
+ - donnne la date 						"quelle est la date d'aujourd'hui"
+ - donne la météo						"est-ce qu'il fait beau ?"
+ - contrôle de la lecture média					"lance la musique" / "met la vidéo sur pause" / "met la musique suivant/précéente"
+ - contrôle du volume						"augmente le volume de 5" / "Baisse le volume" / "coupe le son"
+
+
+Fonctionnalités pas encore mises en place :
+ - 

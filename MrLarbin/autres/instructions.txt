@@ -1,0 +1,20 @@
+Pour utiliser le script:
+bien vérifier que python 3.8 est installé avec la fonctionnalité pip
+pour installer les bibliothèques (visibles en haut du code): 
+	- utiliser pip en écrivant dans la cmd :
+		- pip install urllib3
+		- pip install wolframalpha
+		- pip install google-trans-new
+		- pip install SpeechRecognition
+		- pip install pyttsx3
+		- pip install subprocess32
+		- pip install Pyaudio
+		- pip install wikipedia
+		- pip install DateTime
+		- pip install pyautogui
+		- pip install pywhatkit
+	- si la commande pip n'est pas utilisable, il faut réinstaller 			python en cochant bien la case qui permet d'utiliser pip.
+
+Il faut aussi faire attention à changer les redirections d'applications dans la fonction application.
+
+Le script arduino pour utiliser la télécommande est appelé code_domotique.ino et le script principal de l'assistant est dans le dossier MrLarbin, et s'appelle Assistant_vocal.
